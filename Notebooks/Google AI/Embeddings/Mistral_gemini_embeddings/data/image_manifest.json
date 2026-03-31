@@ -1,0 +1,506 @@
+[
+  {
+    "id": "img-0.jpeg",
+    "alt": "Aspiradora inalámbrica Dyson Outsize con tubo de extensión y cabezal de limpieza.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-0.jpeg"
+  },
+  {
+    "id": "img-1.jpeg",
+    "alt": "Cuerpo principal de la aspiradora.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-1.jpeg"
+  },
+  {
+    "id": "img-2.jpeg",
+    "alt": "Cepillo High Torque XL: cepillo extra ancho de 12 pulgadas equipado con sistema Dyson DLS™ (Dynamic Load Sensor).",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-2.jpeg"
+  },
+  {
+    "id": "img-3.jpeg",
+    "alt": "Cepillo High Torque XL extra ancho de 12 pulgadas, equipado con el sistema Dyson DLS™ (Dynamic Load Sensor) para ajustar automáticamente la potencia según el tipo de suelo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-3.jpeg"
+  },
+  {
+    "id": "img-4.jpeg",
+    "alt": "Base de carga fijada a la pared para almacenar y cargar la aspiradora.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-4.jpeg"
+  },
+  {
+    "id": "img-5.jpeg",
+    "alt": "Cable de alimentación con conector de carga y transformador.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-5.jpeg"
+  },
+  {
+    "id": "img-6.jpeg",
+    "alt": "Batería intercambiable adicional.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-6.jpeg"
+  },
+  {
+    "id": "img-7.jpeg",
+    "alt": "Cable de carga diseñado para conectar la aspiradora directamente a la corriente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-7.jpeg"
+  },
+  {
+    "id": "img-8.jpeg",
+    "alt": "Accesorio con motor para pelo y espacios pequeños que recoge el cabello en espiral para depositarlo en el cubo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-8.jpeg"
+  },
+  {
+    "id": "img-9.jpeg",
+    "alt": "Accesorio multifunción: cepillo y boquilla para colchones.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-9.jpeg"
+  },
+  {
+    "id": "img-10.jpeg",
+    "alt": "Rinconera diseñada para una limpieza precisa en esquinas y espacios estrechos.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-10.jpeg"
+  },
+  {
+    "id": "img-11.jpeg",
+    "alt": "Accesorio multifunción: cabezal combinable que integra un cepillo y una herramienta para colchones, permitiendo alternar rápidamente entre ambos modos de limpieza.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-11.jpeg"
+  },
+  {
+    "id": "img-12.jpeg",
+    "alt": "Accesorio multifunción con cerdas rígidas de nailon, diseñado para eliminar la suciedad incrustada en alfombras gruesas, zonas de mucho tránsito e interiores de vehículos.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-12.jpeg"
+  },
+  {
+    "id": "img-13.jpeg",
+    "alt": "Accesorio para rincones con luces LED integradas para limpiar zonas oscuras y estrechas.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-13.jpeg"
+  },
+  {
+    "id": "img-14.jpeg",
+    "alt": "Cabezal limpiador diseñado con suave nailon trenzado y fibra de carbono para eliminar el polvo fino en suelos duros, previniendo la acumulación de electricidad estática.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-14.jpeg"
+  },
+  {
+    "id": "img-15.jpeg",
+    "alt": "Manguera extensible que añade hasta 61 cm de alcance flexible para limpiar zonas de difícil acceso, tanto en el hogar como en el interior de coches.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-15.jpeg"
+  },
+  {
+    "id": "img-16.jpeg",
+    "alt": "Accesorio de succión diseñado para limpiar rincones y zonas estrechas, que se alarga y se dobla para alcanzar espacios difíciles tanto en el hogar como en el coche.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-16.jpeg"
+  },
+  {
+    "id": "img-17.jpeg",
+    "alt": "Accesorio que se extiende y se dobla para alcanzar y limpiar los rincones más complicados del hogar y el coche.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-17.jpeg"
+  },
+  {
+    "id": "img-18.jpeg",
+    "alt": "Conecta el cabezal de limpieza al tubo y el tubo a la unidad principal hasta que encajen con un clic. El número de serie para el registro de la máquina se encuentra en la base de la empuñadura.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-18.jpeg"
+  },
+  {
+    "id": "img-19.jpeg",
+    "alt": "Inserta el cabezal de limpieza directamente en el cuerpo principal de la aspiradora hasta escuchar un clic de acople.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-19.jpeg"
+  },
+  {
+    "id": "img-20.jpeg",
+    "alt": "Pulsa el botón para cambiar el modo de potencia.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-20.jpeg"
+  },
+  {
+    "id": "img-21.jpeg",
+    "alt": "Modo de potencia que ofrece la máxima autonomía para limpiezas prolongadas en todo el hogar.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-21.jpeg"
+  },
+  {
+    "id": "img-22.jpeg",
+    "alt": "Modo automático: ajusta la potencia según el tipo de suelo para equilibrar el rendimiento y la autonomía de la batería.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-22.jpeg"
+  },
+  {
+    "id": "img-23.jpeg",
+    "alt": "Modo automático o equilibrado, que ofrece un balance ideal entre potencia y autonomía, activándose automáticamente al utilizar el cepillo High Torque XL para ajustar la velocidad del motor según el tipo de suelo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-23.jpeg"
+  },
+  {
+    "id": "img-24.jpeg",
+    "alt": "Modo Boost para una limpieza intensiva de la suciedad incrustada en los rincones del hogar.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-24.jpeg"
+  },
+  {
+    "id": "img-25.jpeg",
+    "alt": "Botón de control para acceder y navegar por el menú de configuración y cambiar el idioma. Mantén pulsado para entrar al menú y pulsa brevemente para desplazarte por las opciones.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-25.jpeg"
+  },
+  {
+    "id": "img-26.jpeg",
+    "alt": "Pantalla de selección de idioma en la pantalla LCD con las opciones \"English\" y \"Espanol\".",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-26.jpeg"
+  },
+  {
+    "id": "img-27.jpeg",
+    "alt": "Confirmación visual de que el idioma inglés ha sido seleccionado correctamente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-27.jpeg"
+  },
+  {
+    "id": "img-28.jpeg",
+    "alt": "Icono de alerta que aparece en la pantalla cuando la máquina requiere atención.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-28.jpeg"
+  },
+  {
+    "id": "img-29.jpeg",
+    "alt": "Icono de batería con una cuenta atrás de 4:50 que indica el tiempo de funcionamiento restante.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-29.jpeg"
+  },
+  {
+    "id": "img-30.jpeg",
+    "alt": "Aviso de batería baja o descargada que requiere conexión a la corriente para cargar.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-30.jpeg"
+  },
+  {
+    "id": "img-31.jpeg",
+    "alt": "Representación gráfica del estado de carga de las baterías: el nivel alto (verde) y el nivel medio (azul) cuentan con un icono de verificación, indicando un rendimiento óptimo, mientras que el nivel bajo (gris) no lo tiene.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-31.jpeg"
+  },
+  {
+    "id": "img-32.jpeg",
+    "alt": "Conecta la máquina al cargador directamente o a través de la base de carga. La carga completa requiere 4,5 horas. Durante el proceso, los LED azules a los lados de la batería parpadearán; una vez cargada por completo, los LED se iluminarán fijos durante cinco segundos y la pantalla mostrará un 100 %.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-32.jpeg"
+  },
+  {
+    "id": "img-33.jpeg",
+    "alt": "Sostén la batería por la parte inferior, presiona el botón rojo de liberación y deslízala hacia abajo para extraerla del mango. Para colocar una batería nueva, deslízala por el mango hasta escuchar un clic de encaje.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-33.jpeg"
+  },
+  {
+    "id": "img-34.jpeg",
+    "alt": "Desliza la batería en el mango hasta que encaje en su lugar con un clic para asegurar una instalación correcta.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-34.jpeg"
+  },
+  {
+    "id": "img-35.jpeg",
+    "alt": "Vacía el depósito antes de que la suciedad sobrepase la marca «MAX» para evitar que el filtro se ensucie y requiera un mantenimiento más frecuente. Nunca superes este límite.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-35.jpeg"
+  },
+  {
+    "id": "img-36.jpeg",
+    "alt": "Vacía el cubo antes de que la suciedad alcance la marca «MAX». Para hacerlo, sujeta la máquina sobre un cubo de basura, presiona firmemente el botón rojo de expulsión del cubo para que este se deslice hacia abajo y libere el contenido, asegurándote de no pulsar el botón «ON» durante el proceso.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-36.jpeg"
+  },
+  {
+    "id": "img-37.jpeg",
+    "alt": "Para vaciar el depósito, sujeta la aspiradora sobre un cubo y presiona firmemente el botón rojo de expulsión para que la base se abra y la suciedad caiga. Asegúrate de pulsar el botón rojo de la empuñadura (indicado con el símbolo de verificación) y no el gatillo «ON» (marcado con una X) mientras el cubo esté abierto. No llenes el depósito por encima de la marca «MAX» para evitar que la suciedad alcance el filtro y requiera un mantenimiento más frecuente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-37.jpeg"
+  },
+  {
+    "id": "img-38.jpeg",
+    "alt": "Empuja el cubo transparente hacia arriba hasta que encaje en su posición original, asegurándote de escuchar el sonido de \"clic\" que confirma que la base está cerrada correctamente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-38.jpeg"
+  },
+  {
+    "id": "img-39.jpeg",
+    "alt": "Para limpiar el cubo, pulsa el botón rojo de la guía para extraer el cubo transparente y deslízalo hacia afuera. Límpialo únicamente con un paño húmedo y asegúrate de que esté totalmente seco antes de volver a colocarlo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-39.jpeg"
+  },
+  {
+    "id": "img-40.jpeg",
+    "alt": "Para limpiar el cubo, extráelo presionando el botón rojo de la guía y deslizándolo hacia afuera. Límpialo únicamente con un paño húmedo; no utilices lavavajillas ni detergentes. Antes de volver a colocarlo, asegúrate de que el cubo y sus juntas estén completamente secos. Insértalo de nuevo en su lugar deslizándolo por la guía y cierra la base empujándola hacia arriba hasta que encaje correctamente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-40.jpeg"
+  },
+  {
+    "id": "img-41.jpeg",
+    "alt": "Inserta el cubo en su posición original deslizándolo por la guía y empuja la base hacia arriba hasta escuchar un \"clic\" que confirme que ha encajado correctamente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-41.jpeg"
+  },
+  {
+    "id": "img-42.jpeg",
+    "alt": "Desenchufa el aparato de la toma de corriente antes de realizar cualquier tarea de mantenimiento.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-42.jpeg"
+  },
+  {
+    "id": "img-43.jpeg",
+    "alt": "Gira la unidad del filtro en sentido contrario a las agujas del reloj y extráela suavemente de la máquina.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-43.jpeg"
+  },
+  {
+    "id": "img-44.jpeg",
+    "alt": "Lava el filtro bajo el chorro de agua fría, sosteniéndolo con el elemento de espuma hacia abajo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-44.jpeg"
+  },
+  {
+    "id": "img-45.jpeg",
+    "alt": "Enjuaga el filtro con agua fría, manteniendo el elemento de espuma hacia abajo mientras el chorro de agua cae sobre la parte de papel plisado.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-45.jpeg"
+  },
+  {
+    "id": "img-46.jpeg",
+    "alt": "Sujeta el filtro con ambas manos y tira de él suavemente hacia arriba y hacia abajo para separarlo de la unidad.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-46.jpeg"
+  },
+  {
+    "id": "img-47.jpeg",
+    "alt": "Lava el elemento de espuma bajo el grifo, orientándolo hacia abajo para que el agua sucia no entre en contacto con la parte de papel. Enjuaga tanto el interior como el exterior con agua fría.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-47.jpeg"
+  },
+  {
+    "id": "img-48.jpeg",
+    "alt": "Lavar el filtro con agua fría, enjuagando primero la parte de papel plisado y después el elemento de espuma, manteniendo siempre este último hacia abajo para evitar que el agua sucia contamine el papel.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-48.jpeg"
+  },
+  {
+    "id": "img-49.jpeg",
+    "alt": "Asegúrese de que el filtro esté completamente seco antes de volver a colocarlo en la aspiradora; no lo introduzca si todavía gotea agua.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-49.jpeg"
+  },
+  {
+    "id": "img-50.jpeg",
+    "alt": "Desconecta la aspiradora del cargador y separa el cabezal del tubo antes de proceder a la limpieza.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-50.jpeg"
+  },
+  {
+    "id": "img-51.jpeg",
+    "alt": "Levanta la pestaña roja situada en el lateral del cabezal del cepillo para liberarlo y poder extraerlo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-51.jpeg"
+  },
+  {
+    "id": "img-52.jpeg",
+    "alt": "Desliza el cepillo hacia fuera por el lateral del cabezal.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-52.jpeg"
+  },
+  {
+    "id": "img-53.jpeg",
+    "alt": "Retira con la mano los restos de pelo o fibras enredados en el cepillo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-53.jpeg"
+  },
+  {
+    "id": "img-54.jpeg",
+    "alt": "Lava el cepillo bajo el chorro de agua fría del grifo, frotándolo suavemente para eliminar la suciedad.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-54.jpeg"
+  },
+  {
+    "id": "img-55.jpeg",
+    "alt": "Deja secar el cepillo en posición vertical durante 24 horas hasta que esté completamente seco antes de volver a colocarlo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-55.jpeg"
+  },
+  {
+    "id": "img-56.jpeg",
+    "alt": "Retira la tapa lateral del cabezal del cepillo desplazándola en la dirección de la flecha verde para extraer el rodillo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-56.jpeg"
+  },
+  {
+    "id": "img-57.jpeg",
+    "alt": "Retira el rodillo del cepillo para lavarlo con agua fría, frótalo suavemente para eliminar la suciedad y déjalo secar en posición vertical hasta que esté completamente seco antes de volver a usarlo. Limpia la carcasa exterior únicamente con un paño húmedo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-57.jpeg"
+  },
+  {
+    "id": "img-58.jpeg",
+    "alt": "Para el mantenimiento, asegúrate de que la máquina esté desconectada del cargador y no toques el gatillo. Presiona la tapa del extremo lateral del cepillo hacia arriba para extraerla, levántala y retira el cepillo del cabezal. No laves la tapa, no utilices lavavajillas, detergentes, abrillantadores ni ambientadores para limpiar ninguna de las piezas.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-58.jpeg"
+  },
+  {
+    "id": "img-59.jpeg",
+    "alt": "Coloca el cepillo en posición vertical con el extremo abierto hacia abajo y el extremo cerrado hacia arriba para permitir su secado. El extremo cerrado, que presenta una pieza central con forma de estrella, debe mantenerse en la parte superior.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-59.jpeg"
+  },
+  {
+    "id": "img-60.jpeg",
+    "alt": "Inserta el cepillo en el cabezal de limpieza. Coloca la tapa del extremo en el cepillo manteniendo un ángulo de 90° y presiónala hacia abajo hasta que encaje en la posición de cierre. Si la tapa no se coloca en dicho ángulo, no será posible cerrarla correctamente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-60.jpeg"
+  },
+  {
+    "id": "img-61.jpeg",
+    "alt": "Desconecte el aparato de la fuente de alimentación y retire el accesorio antes de proceder con el lavado.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-61.jpeg"
+  },
+  {
+    "id": "img-62.jpeg",
+    "alt": "Gira el cierre lateral del cepillo hacia la posición de desbloqueo para poder extraerlo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-62.jpeg"
+  },
+  {
+    "id": "img-63.jpeg",
+    "alt": "Desbloquea la tapa lateral del cabezal y extrae el cepillo suave deslizándolo hacia afuera.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-63.jpeg"
+  },
+  {
+    "id": "img-64.jpeg",
+    "alt": "No lavar con agua la pieza del extremo del cepillo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-64.jpeg"
+  },
+  {
+    "id": "img-65.jpeg",
+    "alt": "Extraer el cepillo suave giratorio del cabezal de limpieza tirando de él hacia afuera.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-65.jpeg"
+  },
+  {
+    "id": "img-66.jpeg",
+    "alt": "Lava los cepillos giratorios bajo el grifo con agua. Después, colócalos en posición vertical, asegurándote de que el extremo con el disco esté en la parte superior, y deja que se sequen completamente al aire durante al menos 24 horas antes de volver a utilizarlos.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-66.jpeg"
+  },
+  {
+    "id": "img-67.jpeg",
+    "alt": "Inserta el cepillo giratorio en el cabezal del aspirador y presiona la tapa lateral hasta escuchar un \"clic\" que confirme su fijación.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-67.jpeg"
+  },
+  {
+    "id": "img-68.jpeg",
+    "alt": "Extraiga el cepillo suave giratorio deslizándolo hacia afuera mediante la pestaña lateral. Para cerrar correctamente el compartimento, asegúrese de que la tapa esté alineada en la posición indicada con la marca de verificación verde y no en la posición resaltada en rojo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-68.jpeg"
+  },
+  {
+    "id": "img-69.jpeg",
+    "alt": "Gira la tapa lateral del cabezal en sentido horario hacia el símbolo del candado cerrado para desbloquear y extraer el cepillo suave para su limpieza.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-69.jpeg"
+  },
+  {
+    "id": "img-70.jpeg",
+    "alt": "Lava los accesorios con agua fría, sin usar lavavajillas ni detergentes, y asegúrate de que estén completamente secos antes de volver a utilizarlos. Ten en cuenta que tanto el accesorio para pelo como la rinconera no deben lavarse con agua; para ellos, utiliza únicamente un paño húmedo que no suelte pelusa.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-70.jpeg"
+  },
+  {
+    "id": "img-71.jpeg",
+    "alt": "El cepillo High Torque XL cuenta con un control deslizante en la parte frontal para ajustar el nivel de succión. Desliza el mando hacia la izquierda o derecha para seleccionar la potencia necesaria según el tipo de superficie o el nivel de suciedad, permitiendo elegir entre una succión máxima para residuos incrustados o una succión equilibrada para suelos y alfombras.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-71.jpeg"
+  },
+  {
+    "id": "img-72.jpeg",
+    "alt": "Desconecta la máquina de la corriente. Inspecciona visualmente los puntos de conexión de la barra del cepillo y asegúrate de que esté correctamente encajada y bloqueada antes de ponerla en funcionamiento. Manipula los cepillos de fibra de carbono con precaución y lávate las manos tras tocarlos para evitar posibles irritaciones en la piel.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-72.jpeg"
+  },
+  {
+    "id": "img-73.jpeg",
+    "alt": "Presiona el cierre, desliza el depósito para cerrarlo y verifica visualmente que quede correctamente encajado y sujeto antes de comenzar a usar la máquina. Evita tocar los cepillos de fibra de carbono para prevenir posibles irritaciones en la piel.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-73.jpeg"
+  },
+  {
+    "id": "img-74.jpeg",
+    "alt": "Inserta el cubo en el cuerpo principal de la máquina hasta que encaje con un clic. Asegúrate de que quede bien sujeto antes de usarla. Ten precaución al manipular los cepillos de fibra de carbono, ya que pueden causar irritación; lávate las manos después de tocarlos.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-74.jpeg"
+  },
+  {
+    "id": "img-75.jpeg",
+    "alt": "Desconecte el aparato de la toma de corriente y retire el tubo del cabezal de limpieza.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-75.jpeg"
+  },
+  {
+    "id": "img-76.jpeg",
+    "alt": "Gira el cierre lateral del cabezal de limpieza hacia la posición de desbloqueo utilizando una moneda.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-76.jpeg"
+  },
+  {
+    "id": "img-77.jpeg",
+    "alt": "Gire la tapa lateral del cabezal de limpieza hacia arriba y deslice el cepillo suave hacia afuera para extraerlo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-77.jpeg"
+  },
+  {
+    "id": "img-78.jpeg",
+    "alt": "Retira el cabello o los hilos enredados en el rodillo del cepillo.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-78.jpeg"
+  },
+  {
+    "id": "img-79.jpeg",
+    "alt": "Gire la tapa lateral del cepillo suave en sentido horario para desbloquearla y extraerla del cabezal de limpieza.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-79.jpeg"
+  },
+  {
+    "id": "img-80.jpeg",
+    "alt": "Gira el cierre de la tapa lateral hacia la izquierda (posición de desbloqueo) utilizando una moneda para liberar y retirar el rodillo del cabezal.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-80.jpeg"
+  },
+  {
+    "id": "img-81.jpeg",
+    "alt": "Presiona la palanca de bloqueo roja situada en la parte posterior del accesorio para liberar y extraer la tapa del cepillo, permitiendo así acceder al rodillo para eliminar obstrucciones o realizar el lavado.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-81.jpeg"
+  },
+  {
+    "id": "img-82.jpeg",
+    "alt": "Elimina los pelos o fibras enredados en el cepillo giratorio tirando de ellos manualmente.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-82.jpeg"
+  },
+  {
+    "id": "img-83.jpeg",
+    "alt": "Para volver a montar el accesorio, asegúrate de que la palanca roja de bloqueo esté en la posición de desbloqueo. Alinea la tapa del cepillo con la guía del cuerpo principal y presiona hacia abajo hasta que encaje firmemente. Recuerda limpiar el accesorio solo con un paño húmedo, sin usar lavavajillas ni detergentes.",
+    "mime_type": "image/jpeg",
+    "path": "./data/extracted_images/img-83.jpeg"
+  }
+]
